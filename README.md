@@ -1,4 +1,3 @@
 # Saladim.Logo
-Draw the logo of Saladim.org via ImageSharp
-
-**Tip:** The **default** location of the image will be in `@"D:\文档\temp\test.png"`
+画Logo! C#的ImageSharp画的!
+默认路径在 `@"D:\文档\temp\test.png"` 下
